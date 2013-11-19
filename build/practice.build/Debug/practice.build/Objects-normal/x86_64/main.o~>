@@ -1,0 +1,5 @@
+/Users/ianriley/Dropbox/practice/main.cpp: In function 'int main(int, char* const*)':
+/Users/ianriley/Dropbox/practice/main.cpp:14: error: expected ',' or ';' before 'bool'
+/Users/ianriley/Dropbox/practice/main.cpp:25: error: 'truth' was not declared in this scope
+/Users/ianriley/Dropbox/practice/main.cpp:13: warning: unused variable 'specicalC'
+/Users/ianriley/Dropbox/practice/main.cpp:20: warning: unused variable 'numbers'

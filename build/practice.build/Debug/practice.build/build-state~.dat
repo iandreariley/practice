@@ -1,0 +1,51 @@
+Tpractice
+v7
+r0
+t405318172.171383
+cCheck dependencies
+cCompileC build/practice.build/Debug/practice.build/Objects-normal/x86_64/main.o /Users/ianriley/Dropbox/practice/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Users/ianriley/Dropbox/practice/build/Debug/practice
+t2
+s0
+
+N/Users/ianriley/Dropbox/practice/build/practice.build/Debug/practice.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/ianriley/Dropbox/practice/build/practice.build/Debug/practice.build/Objects-normal/x86_64/practice.LinkFileList
+c000000005278729B0000000000000068
+t1383625371
+s104
+
+N/Users/ianriley/Dropbox/practice/main.cpp
+c000000005278729B00000000000001AC
+t1383625371
+s428
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies405318171#405318171#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/practice.build/Debug/practice.build/Objects-normal/x86_64/main.o /Users/ianriley/Dropbox/practice/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s405318171.780341
+e405318172.171303
+r0
+xCompileC
+xbuild/practice.build/Debug/practice.build/Objects-normal/x86_64/main.o
+x/Users/ianriley/Dropbox/practice/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/ianriley/Dropbox/practice/main.cpp405318171#405318172#0(165"/Users/ianriley/Dropbox/practice/main.cpp: In function 'int main(int, char* const*)':/Users/ianriley/Dropbox/practice/main.cpp:25: error: expected `;' before 'cin'1(4@25"Expected `;' before 'cin'405318172#86#79#0(6@41"/Users/ianriley/Dropbox/practice/main.cpp405318171#25#0#25#0#19"expected * before *0(0#0#41"/Users/ianriley/Dropbox/practice/main.cpp3917909816998063104#1243"    cd /Users/ianriley/Dropbox/practice    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/ianriley/Dropbox/practice/build/practice.build/Debug/practice.build/practice-generated-files.hmap -I/Users/ianriley/Dropbox/practice/build/practice.build/Debug/practice.build/practice-own-target-headers.hmap -I/Users/ianriley/Dropbox/practice/build/practice.build/Debug/practice.build/practice-all-target-headers.hmap -iquote /Users/ianriley/Dropbox/practice/build/practice.build/Debug/practice.build/practice-project-headers.hmap -F/Users/ianriley/Dropbox/practice/build/Debug -I/Users/ianriley/Dropbox/practice/build/Debug/include -I/Users/ianriley/Dropbox/practice/build/practice.build/Debug/practice.build/DerivedSources/x86_64 -I/Users/ianriley/Dropbox/practice/build/practice.build/Debug/practice.build/DerivedSources -c /Users/ianriley/Dropbox/practice/main.cpp -o /Users/ianriley/Dropbox/practice/build/practice.build/Debug/practice.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/ianriley/Dropbox/practice/build/Debug/practice normal x86_64
+r0
+
