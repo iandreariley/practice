@@ -11,7 +11,7 @@ typedef void (*fptr)();
 int main (int argc, char * const argv[])
 {
 	int specicalC = (int)'?' // Snarky comment
-	bool truth;
+	bool truth; // Second Comment
 	srand(time(0));
 	fptr funcs[2];
 	funcs[0] = &zero;
