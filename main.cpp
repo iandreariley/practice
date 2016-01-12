@@ -10,7 +10,7 @@ typedef void (*fptr)();
 
 int main (int argc, char * const argv[])
 {
-	int specicalC = (int)'?'
+	int specicalC = (int)'?' // Snarky comment
 	bool truth;
 	srand(time(0));
 	fptr funcs[2];
